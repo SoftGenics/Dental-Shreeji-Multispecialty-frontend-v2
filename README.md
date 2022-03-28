@@ -1,8 +1,9 @@
 # SHREE JI MULTISPECIALITY DENTAL CLINIC
 
 ## To start this project 
+## First clone this repo with git in your local system
 
-git clone https://github.com/SoftGenics/Dental-Shreeji-Multispecialty-frontend-v2.git
+### `git clone https://github.com/SoftGenics/Dental-Shreeji-Multispecialty-frontend-v2.git`
 
 
 # Open this project in vs code
